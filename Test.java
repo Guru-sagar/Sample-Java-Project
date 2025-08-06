@@ -7,7 +7,7 @@ public class Test {
         int res=a+b;
         System.out.println("the result is " +res);
     }
-    public static void main(String[] args)
+    public static void main(String[] args
     {
         add();
     }
